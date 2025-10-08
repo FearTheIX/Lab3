@@ -24,6 +24,7 @@
     <Compile Include="Lab3.py" />
     <Compile Include="data_processor.py" />
     <Compile Include="annotation_creator.py" />
+    <Compile Include="main_window.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
